@@ -41,6 +41,10 @@ table
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+#welcome
+{
+	float: center;
+}
 #pfp
 {
 	float: right;
