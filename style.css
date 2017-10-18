@@ -58,4 +58,7 @@ table
 {
 	float: left;
 	color: #C0C0C0;
+	text-align: center;
+	display: block;
+	padding: 18px;
 }
