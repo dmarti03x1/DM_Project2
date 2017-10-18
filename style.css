@@ -43,5 +43,10 @@ table
 }
 #navbar
 {
-	
+	overflow: hidden;
+    background-color: #669999;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    margin-bottom: 10px;
 }
