@@ -50,3 +50,7 @@ table
     width: 100%;
     margin-bottom: 10px;
 }
+#navbar a:hover 
+{
+    background-color: #800000;
+}
