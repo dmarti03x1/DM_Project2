@@ -54,7 +54,7 @@ table
 	overflow: hidden;
     background-color: #C0392B;
     position: sticky;
-    top: 0;
+		top: 0;
     width: 100%;
     margin-bottom: 10px;
 }
