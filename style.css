@@ -41,6 +41,10 @@ table
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+#pfp
+{
+	float: right;
+}
 #navbar
 {
 	overflow: hidden;
@@ -62,4 +66,6 @@ table
 	display: block;
 	padding: 18px;
 	text-decoration: none;
+	font-family: monospace;
+	font-size: 22px;
 }
