@@ -54,3 +54,7 @@ table
 {
     background-color: #800000;
 }
+#navbar a 
+{
+	float: left;
+}
