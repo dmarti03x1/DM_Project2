@@ -52,7 +52,7 @@ table
 #navbar
 {
 	overflow: hidden;
-    background-color: #C0392B;
+    background-color: #BE4248;
     position: sticky;
 		top: 0;
     width: 100%;
@@ -91,6 +91,11 @@ table
 {
 	font: 20px monospace; 
 }
+#eduXP figure
+{
+	float: center;
+	font: bold 15px Monaco;
+}
 #soq 
 {
 	
@@ -118,5 +123,5 @@ table
 }
 #portfolio 
 {
-    background-color: #5D6D7E;
+    background-color: #586473;
 }
