@@ -121,6 +121,23 @@ table
 		background-color: #AEB6BF;
 		
 }
+#edu 
+{
+	
+	width: 100%;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 50px;
+	margin-left: 0px;
+}
+#edu h3
+{
+		font: bold 27px 'Roboto Slab', serif;
+		text-align: center;
+		border-radius: 10px;
+		background-color: #AEB6BF;
+		
+}
 #portfolio 
 {
     background-color: #586473;
