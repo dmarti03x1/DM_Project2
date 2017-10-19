@@ -87,3 +87,12 @@ table
 	margin-bottom: 15px;
 	font: bold 29px monospace; 
 }
+#soq 
+{
+	overflow: auto;
+	width: 100%;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+}
