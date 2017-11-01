@@ -1,6 +1,7 @@
 #profile
 {
-	background-color: #99878D;
+	background-color: #242842;
+	color: #FFFFFF;
 }
 #welcome
 {
@@ -13,7 +14,7 @@
 #navbar
 {
 	overflow: hidden;
-    background-color: #BE4248;
+    background-color: #591527;
     position: fixed;
 		top: 0;
     width: 100%;
