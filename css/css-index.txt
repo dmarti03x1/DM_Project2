@@ -1,0 +1,55 @@
+#welcome
+{
+	float: left;
+}
+#pfp
+{
+	float: right;
+}
+#navbar
+{
+	overflow: hidden;
+    background-color: #BE4248;
+    position: fixed;
+		top: 0;
+    width: 100%;
+    margin-bottom: 10px;
+}
+#navbar a:hover 
+{
+    background-color: #800000;
+}
+#navbar a 
+{
+	float: left;
+	color: #C0C0C0;
+	text-align: center;
+	display: block;
+	padding: 18px;
+	text-decoration: none;
+	font-family: monospace;
+	font-size: 22px;
+}
+#eduXP
+{
+	overflow: auto;
+	width: 100%;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+}
+#eduXP h3
+{
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#eduXP p
+{
+	font: 20px monospace;	
+}
+#eduXP figure
+{
+	float: left;
+	font: bold 15px Monaco;
+}
