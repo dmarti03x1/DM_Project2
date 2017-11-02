@@ -65,3 +65,14 @@
 	font: 23px monospace;
 	margin-bottom: 10px;	 
 }
+#misc h3
+{
+	margin-top: 50px;
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#misc p
+{
+	font: 23px monospace;
+	margin-bottom: 10px;	 
+}
