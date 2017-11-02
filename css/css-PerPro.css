@@ -1,7 +1,7 @@
 #navbar
 {
 	overflow: hidden;
-    background-color: #BE4248;
+    background-color: #591527;
     position: static;
 		top: 0;
     width: 100%;
@@ -9,12 +9,12 @@
 }
 #navbar a:hover 
 {
-    background-color: #800000;
+    background-color: #34051D;
 }
 #navbar a 
 {
 	float: left;
-	color: #C0C0C0;
+	color: #FFFFFF;
 	text-align: center;
 	display: block;
 	padding: 18px;
