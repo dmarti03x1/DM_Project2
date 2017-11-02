@@ -77,3 +77,24 @@
 	font: 25px monospace;
 	margin-bottom: 10px;
 }
+#gallery1
+{
+	display: flex;
+  justify-content: center;
+}
+#g1
+{
+	height: 398px;
+  width: 600px;
+  
+}
+#gallery2
+{
+	display: flex;
+  justify-content: center;
+}
+#g2
+{
+	height: 398px;
+  width: 600px;
+}
