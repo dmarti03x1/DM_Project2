@@ -27,6 +27,34 @@
 	background-color: #E3DCDC;
 	color: #1D1C28;
 }
+#header
+{
+	border-radius: 10px;
+	position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 100%;
+    background-color: #AEB6BF;
+    margin-bottom: 10px
+}
+#header h2
+{
+	float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+#header p
+{
+	float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
 #soq h2
 {
 		font: bold 40px 'Roboto Slab', serif;
