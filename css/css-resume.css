@@ -27,3 +27,9 @@
 	background-color: #E3DCDC;
 	color: #1D1C28;
 }
+#soq h2
+{
+		font: bold 40px 'Roboto Slab', serif;
+		text-align: center;
+		border-radius: 10px;
+}
