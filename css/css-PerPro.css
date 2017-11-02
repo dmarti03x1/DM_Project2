@@ -2,7 +2,7 @@
 {
 	overflow: hidden;
     background-color: #BE4248;
-    position: fixed;
+    position: static;
 		top: 0;
     width: 100%;
     margin-bottom: 10px;
