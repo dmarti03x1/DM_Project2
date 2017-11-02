@@ -35,6 +35,33 @@
 }
 #pc p
 {
-	font: 25px monospace;
+	font: 23px monospace;
+	margin-bottom: 10px;	 
+}
+#blog h3
+{
+	margin-top: 50px;
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#blog p
+{
+	font: 23px monospace;
+	margin-bottom: 10px;	 
+}
+#games h3
+{
+	margin-top: 50px;
+	margin-bottom: 15px;
+	font: bold 29px monospace; 
+}
+#games p
+{
+	font: 23px monospace;
+	margin-bottom: 10px;	 
+}
+#games li
+{
+	font: 23px monospace;
 	margin-bottom: 10px;	 
 }
