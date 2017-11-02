@@ -33,3 +33,51 @@
 		text-align: center;
 		border-radius: 10px;
 }
+#soq h3
+{
+		font: bold 27px 'Roboto Slab', serif;
+		text-align: center;
+		border-radius: 10px;
+		background-color: #AEB6BF;
+}
+#soq p
+{
+		font: 18px 'Roboto Slab', serif;
+}
+#edu h3
+{
+		font: bold 27px 'Roboto Slab', serif;
+		text-align: center;
+		border-radius: 10px;
+		background-color: #AEB6BF;
+}
+#edu p
+{
+		font: 18px 'Roboto Slab', serif;
+}
+#skill h3
+{
+		font: bold 27px 'Roboto Slab', serif;
+		text-align: center;
+		border-radius: 10px;
+		background-color: #AEB6BF;
+}
+#skill ul
+{
+		font: 18px 'Roboto Slab', serif;
+}
+#hist h3
+{
+		font: bold 27px 'Roboto Slab', serif;
+		text-align: center;
+		border-radius: 10px;
+		background-color: #AEB6BF;
+}
+#hist p
+{
+		font: 18px 'Roboto Slab', serif;
+}
+#hist ul
+{
+		font: 18px 'Roboto Slab', serif;
+}
