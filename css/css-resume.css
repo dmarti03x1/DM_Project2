@@ -42,18 +42,14 @@
 	float:left;
 	margin-left: 20px;
 	padding-bottom: 10px;
-	font-size: 16px;
-	font-family: Verdana, sans-serif;
-	color: #ffffff;
+	font: bold 27px 'Roboto Slab', serif;
 }
 #header p
 {
 	float:right;
     margin-right: 20px;
 	padding-bottom: 10px;
-	font-size: 16px;
-	font-family: Verdana, sans-serif;
-	color: #ffffff;
+	font: bold 27px 'Roboto Slab', serif;
 }
 #soq h2
 {
