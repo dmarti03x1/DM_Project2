@@ -30,5 +30,11 @@
 #pc h3
 {
 	margin-top: 50px;
+	margin-bottom: 15px;
 	font: bold 29px monospace; 
+}
+#pc p
+{
+	font: 25px monospace;
+	margin-bottom: 10px;	 
 }
