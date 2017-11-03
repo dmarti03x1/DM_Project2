@@ -86,10 +86,11 @@
 }
 #gallery1 figcaption
 {
-	font: 16px monospace;
+	font: 18px monospace;
 }
 #gallery2
 {
+	margin-top: 60px;
 	display: flex;
   justify-content: center;
 }
@@ -100,11 +101,11 @@
 }
 #gallery2 figcaption
 {
-	font: 16px monospace;
+	font: 18px monospace;
 }
-
 #hobby
 {
+	margin-top: 50px;
 font: 25px monospace;
 }
 #hobby h3
