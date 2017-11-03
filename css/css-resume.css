@@ -89,6 +89,7 @@ text-decoration: underline;
 		font: 18px 'Roboto Slab', serif;
 		margin-top: 10px;
 		margin-left: 10px;
+		list-style: square inside;
 }
 #hist h3
 {
@@ -107,4 +108,5 @@ text-decoration: underline;
 {
 		font: 18px 'Roboto Slab', serif;
 		margin-left: 10px;
+		list-style: square inside;
 }
