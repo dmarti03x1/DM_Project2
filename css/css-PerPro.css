@@ -30,49 +30,59 @@
 #pc h3
 {
 	margin-top: 50px;
+	margin-left: 20px;
 	margin-bottom: 15px;
 	font: bold 29px monospace; 
 }
 #pc p
 {
+	margin-left: 10px;
 	font: 23px monospace;
 	margin-bottom: 10px;	 
 }
 #blog h3
 {
 	margin-top: 50px;
+	margin-left: 20px;
 	margin-bottom: 15px;
 	font: bold 29px monospace; 
 }
 #blog p
 {
+	margin-left: 10px;
 	font: 23px monospace;
 	margin-bottom: 10px;	 
 }
 #games h3
 {
 	margin-top: 50px;
+	margin-left: 20px;
 	margin-bottom: 15px;
 	font: bold 29px monospace; 
 }
 #games p
 {
+	margin-left: 10px;
 	font: 23px monospace;
 	margin-bottom: 10px;	 
 }
 #games li
 {
+	margin-left: 10px;
 	font: 23px monospace;
-	margin-bottom: 10px;	 
+	margin-bottom: 10px;
+	list-style: square inside;	
 }
 #misc h3
 {
 	margin-top: 50px;
+	margin-left: 20px;
 	margin-bottom: 15px;
 	font: bold 29px monospace; 
 }
 #misc p
 {
+	margin-left: 10px;
 	font: 23px monospace;
 	margin-bottom: 10px;	 
 }

@@ -106,4 +106,8 @@ font: 25px monospace;
 {
 font: bold 29px monospace;
 }
+#hobby li
+{
+	list-style: square inside;
+}
 
