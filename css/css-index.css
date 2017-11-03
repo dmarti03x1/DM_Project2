@@ -79,7 +79,7 @@
 	display: flex;
   justify-content: center;
 }
-#g1
+#gallery1 figure
 {
 	height: 398px;
   width: 600px;
@@ -93,7 +93,7 @@
 	display: flex;
   justify-content: center;
 }
-#g2
+#gallery2 figure
 {
 	height: 398px;
   width: 600px;
