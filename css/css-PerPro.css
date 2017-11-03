@@ -1,15 +1,15 @@
 #navbar
 {
 	overflow: hidden;
-    background-color: #591527;
-    position: static;
-		top: 0;
-    width: 100%;
-    margin-bottom: 10px;
+  background-color: #591527;
+	position: static;
+	top: 0;
+  width: 100%;
+  margin-bottom: 10px;
 }
 #navbar a:hover 
 {
-    background-color: #34051D;
+  background-color: #34051D;
 }
 #navbar a 
 {
