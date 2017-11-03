@@ -75,6 +75,7 @@
 {
 		font: 18px 'Roboto Slab', serif;
 		margin-top: 10px;
+		margin-left: 10px;
 }
 #skill h3
 {
@@ -87,6 +88,7 @@ text-decoration: underline;
 {
 		font: 18px 'Roboto Slab', serif;
 		margin-top: 10px;
+		margin-left: 10px;
 }
 #hist h3
 {
@@ -99,8 +101,10 @@ text-decoration: underline;
 {
 		font: 18px 'Roboto Slab', serif;
 				margin-top: 10px;
+				margin-left: 10px;
 }
 #hist ul
 {
 		font: 18px 'Roboto Slab', serif;
+		margin-left: 10px;
 }
