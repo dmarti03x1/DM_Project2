@@ -11,15 +11,15 @@
 }
 #navbar
 {
-		overflow: hidden;
-    background-color: #591527;
-    position: static;
-		top: 0;
-    width: 100%;
+	overflow: hidden;
+  background-color: #591527;
+	position: static;
+	top: 0;
+  width: 100%;
 }
 #navbar a:hover 
 {
-    background-color: #34051D;
+  background-color: #34051D;
 }
 #navbar a 
 {
@@ -119,4 +119,3 @@ font: bold 29px monospace;
 {
 	list-style: square inside;
 }
-
