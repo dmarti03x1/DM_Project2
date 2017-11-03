@@ -51,23 +51,16 @@
 	padding-bottom: 10px;
 	font: bold 27px 'Roboto Slab', serif;
 }
-#soq h2
+#profile h3
 {
-		font: bold 40px 'Roboto Slab', serif;
-		text-align: center;
-		border-radius: 10px;
+	font: bold 27px 'Roboto Slab', serif;
+	margin-top: 70px;
 }
-#soq h3
+#profile p
 {
-		font: bold 27px 'Roboto Slab', serif;
-		text-align: center;
-		border-radius: 10px;
-		background-color: #AEB6BF;
+	font: 18px 'Roboto Slab', serif;
 }
-#soq p
-{
-		font: 18px 'Roboto Slab', serif;
-}
+
 #edu h3
 {
 		font: bold 27px 'Roboto Slab', serif;
