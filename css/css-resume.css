@@ -29,14 +29,14 @@
 }
 #header
 {
-	margin-top: 20px;
+	margin-top: 10px;
 	border-radius: 10px;
 	position: fixed;
-    z-index: 1;
-    height:40px;
-    width: 100%;
-    background-color: #AEB6BF;
-    margin-bottom: 10px
+  z-index: 1;
+  height:40px;
+  width: 100%;
+  background-color: #AEB6BF;
+  margin-bottom: 10px
 }
 #header h2
 {
@@ -55,7 +55,7 @@
 #profile h3
 {
 	font: bold 27px 'Roboto Slab', serif;
-	margin-top: 100px;
+	margin-top: 80px;
 	margin-left: 20px;
 	text-decoration: underline;
 }
@@ -116,7 +116,7 @@ text-decoration: underline;
 {
 	border-radius: 10px;
 	position: fixed;
-    z-index: 1;
+  z-index: 1;
     height:40px;
     width: 100%;
     background-color: #AEB6BF;
