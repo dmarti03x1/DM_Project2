@@ -2,6 +2,7 @@
 {
 	background-color: #242842;
 	color: #FFFFFF;
+	font-size: 22px;
 }
 #pfp
 {
@@ -53,7 +54,7 @@
 #eduXP figure
 {
 	float: left;
-	font: bold 15px Monaco;
+	font: 16px Monospace;
 }
 #origin
 {
@@ -106,7 +107,9 @@
 #hobby
 {
 	margin-top: 50px;
-font: 25px monospace;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	font: 25px monospace;
 }
 #hobby h3
 {
