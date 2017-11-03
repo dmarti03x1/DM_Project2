@@ -63,10 +63,8 @@
 
 #edu h3
 {
-		font: bold 27px 'Roboto Slab', serif;
-		text-align: center;
-		border-radius: 10px;
-		background-color: #AEB6BF;
+	font: bold 27px 'Roboto Slab', serif;
+	margin-top: 20px;
 }
 #edu p
 {
@@ -75,9 +73,7 @@
 #skill h3
 {
 		font: bold 27px 'Roboto Slab', serif;
-		text-align: center;
-		border-radius: 10px;
-		background-color: #AEB6BF;
+margin-top: 20px;
 }
 #skill ul
 {
@@ -86,13 +82,12 @@
 #hist h3
 {
 		font: bold 27px 'Roboto Slab', serif;
-		text-align: center;
-		border-radius: 10px;
-		background-color: #AEB6BF;
+		margin-top: 20px;
 }
 #hist p
 {
 		font: 18px 'Roboto Slab', serif;
+				margin-top: 10px;
 }
 #hist ul
 {
