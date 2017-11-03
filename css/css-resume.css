@@ -55,17 +55,20 @@
 {
 	font: bold 27px 'Roboto Slab', serif;
 	margin-top: 70px;
+	margin-left: 20px;
 	text-decoration: underline;
 }
 #profile p
 {
 	font: 18px 'Roboto Slab', serif;
+	margin-left: 10px;
 }
 
 #edu h3
 {
 	font: bold 27px 'Roboto Slab', serif;
 	margin-top: 20px;
+	margin-left: 20px;
 	text-decoration: underline;
 }
 #edu p
@@ -77,6 +80,7 @@
 {
 		font: bold 27px 'Roboto Slab', serif;
 margin-top: 20px;
+margin-left: 20px;
 text-decoration: underline;
 }
 #skill ul
@@ -88,6 +92,7 @@ text-decoration: underline;
 {
 		font: bold 27px 'Roboto Slab', serif;
 		margin-top: 20px;
+		margin-left: 20px;
 		text-decoration: underline;
 }
 #hist p
