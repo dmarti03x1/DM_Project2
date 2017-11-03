@@ -29,6 +29,7 @@
 }
 #header
 {
+	margin-top: 20px;
 	border-radius: 10px;
 	position: fixed;
     z-index: 1;
@@ -42,25 +43,25 @@
 	float:left;
 	margin-left: 20px;
 	padding-bottom: 10px;
-	font: bold 27px 'Roboto Slab', serif;
+	font: bold 35px 'Roboto Slab', serif;
 }
 #header p
 {
 	float:right;
-    margin-right: 20px;
+  margin-right: 20px;
 	padding-bottom: 10px;
 	font: bold 27px 'Roboto Slab', serif;
 }
 #profile h3
 {
 	font: bold 27px 'Roboto Slab', serif;
-	margin-top: 70px;
+	margin-top: 100px;
 	margin-left: 20px;
 	text-decoration: underline;
 }
 #profile p
 {
-	font: 18px 'Roboto Slab', serif;
+	font: 21px 'Roboto Slab', serif;
 	margin-left: 10px;
 }
 
@@ -73,20 +74,20 @@
 }
 #edu p
 {
-		font: 18px 'Roboto Slab', serif;
+		font: 21px 'Roboto Slab', serif;
 		margin-top: 10px;
 		margin-left: 10px;
 }
 #skill h3
 {
-		font: bold 27px 'Roboto Slab', serif;
+	font: bold 27px 'Roboto Slab', serif;
 margin-top: 20px;
 margin-left: 20px;
 text-decoration: underline;
 }
 #skill ul
 {
-		font: 18px 'Roboto Slab', serif;
+		font: 21px 'Roboto Slab', serif;
 		margin-top: 10px;
 		margin-left: 10px;
 		list-style: square inside;
@@ -100,13 +101,14 @@ text-decoration: underline;
 }
 #hist p
 {
-		font: 18px 'Roboto Slab', serif;
+		font: 22px 'Roboto Slab', serif;
 				margin-top: 10px;
+				margin-bottom: 10px;
 				margin-left: 10px;
 }
 #hist ul
 {
-		font: 18px 'Roboto Slab', serif;
+		font: 21px 'Roboto Slab', serif;
 		margin-left: 10px;
 		list-style: square inside;
 }
