@@ -31,7 +31,7 @@
 {
 	margin-top: 10px;
 	border-radius: 10px;
-	position: fixed;
+	position: static;
   z-index: 1;
   height:40px;
   width: 100%;
@@ -55,7 +55,7 @@
 #profile h3
 {
 	font: bold 27px 'Roboto Slab', serif;
-	margin-top: 80px;
+	margin-top: 30px;
 	margin-left: 20px;
 	text-decoration: underline;
 }
@@ -115,7 +115,7 @@
 #footer
 {
 	border-radius: 10px;
-	position: fixed;
+	position: static;
   z-index: 1;
   height:40px;
   width: 100%;
