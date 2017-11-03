@@ -110,3 +110,13 @@ text-decoration: underline;
 		margin-left: 10px;
 		list-style: square inside;
 }
+#footer
+{
+	border-radius: 10px;
+	position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 100%;
+    background-color: #AEB6BF;
+    margin-top: 20px
+}
